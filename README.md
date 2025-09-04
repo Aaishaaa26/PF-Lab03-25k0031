@@ -12,8 +12,8 @@ Ordered List
 4. d\
 Unordered List
 <br/>
-- e n\
-- f
+- e \
+- f \
 - g
 - h
 **Bold and _itallic_**
