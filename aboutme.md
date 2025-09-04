@@ -1,3 +1,3 @@
-Aaisha\
-BAI\
-sleeping
+Name: Aaisha\
+Program: BAI\
+Hobby: Sleeping
