@@ -10,7 +10,6 @@ Ordered List
 2. b
 3. c
 4. d
-<br/>
 - e <br/>
 - f <br/>
 - g <br/>
